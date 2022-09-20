@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+header{
+	background-color: #212121;
+}
+#hero{
+	text-align: left;
+	padding: 0px 0px 100px;
+}
+
+.carousel-texto{
+	text-align: left;
+	text-transform: uppercase;
+	font-size: 73px;
+}
+
+#intro{
+	padding: 160px 400px;
+	text-align: center;
+}
+#gallery{
+	padding: 60px;
+	text-align: center;
+}
+#gang{
+	padding: 60px;
+	text-align: center;
+}
+
+i{
+	color:#FF4F06;
+}
+
+footer{
+	background-color: #000;
+	color: #acbad4;
+	padding: 30px 0;
+	text-align: center;
+	font-size: 13px;
+}
